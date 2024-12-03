@@ -1,0 +1,13 @@
+lxml
+pillow
+matplotlib
+langchain
+openai
+langchain-chroma
+langchain-experimental
+unstructured[all-docs]==0.10.19
+pydantic
+tiktoken
+open_clip_torch
+torch
+protobuf==3.20.*
